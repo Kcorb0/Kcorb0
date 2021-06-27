@@ -1,4 +1,4 @@
-### Yo, what is going on guy/guyess. I'm Josh aka Kcorb on most other platforms.
+## Yo, what is going on guy/guyess. I'm Josh aka Kcorb on most other platforms.
 
 Where did you come from?
 
