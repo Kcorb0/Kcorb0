@@ -1,4 +1,4 @@
-## Yo, what is going on guy/guyess. I'm Josh aka Kcorb on most other platforms.
+## :call_me: Yo. I'm Josh aka Kcorb on most other platforms :call_me: 
 
 Where did you come from?
 
@@ -6,7 +6,7 @@ Feel free to explore my archives lost lamb ('>')
 
 ![DS Chill Fire](https://i.imgur.com/unIj1Le.gif)
 
-## Who You? Who me?
+## :flying_saucer: Who You? Who me? :flying_saucer:
 - I'm mainly a Python Developer
 - I can't call myself a web developer but I have created some website and webapps
 - Am currently learning a little JavaScript on the side since it's the current hype
@@ -14,17 +14,17 @@ Feel free to explore my archives lost lamb ('>')
 - I like to zen out making 3D models and pixel art for my projects
 - Serially print random things I will never use with my Ender 3
 
-## Listening To 🎧
+## 🎧 Listening To 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
 
-## My Stats
+## :bar_chart: My Stats :bar_chart: 
 
 <img align="left" alt="kcoorb0stats" src="https://github-readme-stats-kcorb0.vercel.app/api?username=Kcorb0&show_icons=true&theme=radical"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Languages, Tools & Magic
+## :tools: Languages, Tools & Magic :magic_wand:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
