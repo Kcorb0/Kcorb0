@@ -18,6 +18,12 @@ Feel free to explore my archives lost lamb ('>')
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
 
+## My Stats
+
+<img align="left" alt="kcoorb0stats" src="https://github-readme-stats-kcorb0.vercel.app/api?username=Kcorb0&show_icons=true&theme=radical"/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## Languages, Tools & Magic
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png"/>
@@ -32,5 +38,3 @@ Feel free to explore my archives lost lamb ('>')
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/897c0f3b953b0940756676825633589bc18c9337/icons/jupyter.svg"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/897c0f3b953b0940756676825633589bc18c9337/icons/gimp.svg"/>
 <img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
-
-## My Stats
