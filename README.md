@@ -6,7 +6,7 @@ Feel free to explore my archives lost lamb ('>')
 
 ![DS Chill Fire](https://i.imgur.com/unIj1Le.gif)
 
-## Who? Who me?
+## Who You? Who me?
 - I'm mainly a Python Developer
 - I can't call myself a web developer but I have created some website and webapps
 - Am currently learning a little JavaScript on the side since it's the current hype
