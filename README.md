@@ -1,4 +1,4 @@
-## :call_me: Yo. I'm Josh aka Kcorb on most other platforms :call_me: 
+## :robot: Yo. I'm Josh aka Kcorb on most other platforms :robot:
 
 Where did you come from?
 
@@ -24,7 +24,7 @@ Feel free to explore my archives lost lamb ('>')
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## :tools: Languages, Tools & Magic :magic_wand:
+## :crystal_ball: Languages, Tools & Magic :crystal_ball:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
