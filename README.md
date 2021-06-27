@@ -22,7 +22,7 @@ Feel free to explore my archives lost lamb ('>')
 
 <img align="left" alt="kcoorb0stats" src="https://github-readme-stats-kcorb0.vercel.app/api?username=Kcorb0&show_icons=true&theme=radical"/>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Languages, Tools & Magic
 
