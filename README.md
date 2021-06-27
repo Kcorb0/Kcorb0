@@ -16,7 +16,7 @@ Feel free to explore my archives lost lamb ('>')
 
 ## Listening To 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ## Languages, Tools & Magic
 
