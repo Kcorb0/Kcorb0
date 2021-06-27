@@ -18,7 +18,7 @@ Feel free to explore my archives lost lamb ('>')
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
 
-## :bar_chart: My Stats :bar_chart: 
+## :joystick: My Stats :joystick:
 
 <img align="left" alt="kcoorb0stats" src="https://github-readme-stats-kcorb0.vercel.app/api?username=Kcorb0&show_icons=true&theme=radical"/>
 
