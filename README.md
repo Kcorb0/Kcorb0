@@ -14,6 +14,10 @@ Feel free to explore my archives lost lamb ('>')
 - I like to zen out making 3D models and pixel art for my projects
 - Serially print random things I will never use with my Ender 3
 
+## Listening To 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
+
 ## Languages, Tools & Magic
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png"/>
