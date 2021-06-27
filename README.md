@@ -31,12 +31,6 @@ Feel free to explore my archives lost lamb ('>')
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/897c0f3b953b0940756676825633589bc18c9337/icons/affinitydesigner.svg"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/897c0f3b953b0940756676825633589bc18c9337/icons/jupyter.svg"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/897c0f3b953b0940756676825633589bc18c9337/icons/gimp.svg"/>
+<img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
 
-
-
-
-
-
-
-
-
+## My Stats
