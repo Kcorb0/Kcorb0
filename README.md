@@ -2,7 +2,7 @@
 
 Where did you come from?
 
-Feel free to explore my archives lost lamb ('>')
+Feel free to explore my archives lost lamb ('>')x
 
 ![DS Chill Fire](https://i.imgur.com/unIj1Le.gif)
 
