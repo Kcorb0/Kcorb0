@@ -6,7 +6,7 @@ Feel free to explore my archives lost lamb ('>')
 
 ![DS Chill Fire](https://i.imgur.com/unIj1Le.gif)
 
-## :flying_saucer: Who me? :flying_saucer:
+## :flying_saucer: Who is I? :flying_saucer:
 - I'm mainly a Python Developer
 - I can't call myself a web developer but I have created some website and webapps
 - Am currently learning a little JavaScript on the side since it's the current hype
