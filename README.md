@@ -9,7 +9,7 @@ Feel free to explore my archives lost lamb ('>')
 ## :flying_saucer: Who is I? :flying_saucer:
 - I'm mainly a Python Developer
 - I can't call myself a web developer but I have created some website and webapps
-- Am currently learning a little JavaScript on the side since it's the current hype
+- Very invested in studying Machine Learning, spend my time solving Kaggle Challenges
 - Currently a Junior Data Engineer
 - I like to zen out making 3D models and pixel art for my projects
 - Serially print random things I will never use with my Ender 3
