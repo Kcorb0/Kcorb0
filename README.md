@@ -44,5 +44,5 @@ Feel free to explore my archives lost lamb ('>')
 <br/><br/>
 
 ## Other Stuff
-[<img align="left" alt="Terminal" src="https://www.codewars.com/users/Kcorb0/badges/large"/>](https://www.codewars.com/users/Kcorb0)
+[<img align="left" alt="Terminal" src="https://www.codewars.com/users/Kcorb0/badges/large"/>](https://www.codewars.com/users/Kcorb0)<br>
 [<img align="left" alt="Terminal" src="https://projecteuler.net/profile/Kcorb0.pnge"/>](https://projecteuler.net/profile/Kcorb0.png)
