@@ -1,4 +1,4 @@
-## :robot: Yo. I'm Josh aka Kcorb on most other platforms :robot:
+## :robot: Hey. I'm Josh aka Kcorb on most other platforms :robot:
 
 Where did you come from?
 
