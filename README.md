@@ -14,7 +14,7 @@ Feel free to explore my archives lost lamb ('>')
 - I like to zen out making 3D models and pixel art for my projects
 - Serially print random things I will never use with my Ender 3
 
-## 🎧 Listening To 🎧
+## 🎧 Current Listen 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
 
