@@ -1,4 +1,4 @@
-## :robot: Hey. I'm Josh. Welcome to my portfolio :robot:
+## :robot: Hey. I'm Josh. Welcome to my portfolio. :robot:
 ![DS Chill Fire](https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif)
 
 ## :flying_saucer: Who am I? :flying_saucer:
