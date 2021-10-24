@@ -1,5 +1,5 @@
 ## :robot: Hey. I'm Josh. :robot:
-![DS Chill Fire](https://media4.giphy.com/media/JQpH25Y6TrRQwtF0KY/giphy.gif?cid=ecf05e47cht99cwmmy22vt3dcbo7gvb1ih4bqxry4e6lerag&rid=giphy.gif&ct=g)
+![DS Chill Fire](https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif)
 
 ## :flying_saucer: Who am I? :flying_saucer:
 - I'm mainly a Python Developer
