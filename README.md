@@ -1,7 +1,7 @@
-## :robot: Hey. I'm Josh. Welcome to my portfolio. :robot:
+<h1>:robot: Hey. I'm Josh. Welcome to my portfolio. :robot:</h1>
 ![DS Chill Fire](https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif)
 
-## :flying_saucer: Who am I? :flying_saucer:
+ :flying_saucer: Who am I? :flying_saucer:
 - I'm mainly a Python Developer
 - I can't call myself a web developer but I have created some website and webapps
 - Very invested in studying Machine Learning, spend my time solving Kaggle Challenges
