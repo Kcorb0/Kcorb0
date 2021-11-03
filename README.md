@@ -9,7 +9,7 @@
 - I'm a Python Developer
 - I can't call myself a web developer but I have created some website and webapps
 - Very invested in studying Machine Learning, spend my time solving Kaggle Challenges
-- Currently a Junior Data Engineer
+- Currently working as a Data Engineer
 - I like to zen out making 3D models and pixel art for my projects
 - Serially print random things I will never use with my Ender 3
 
