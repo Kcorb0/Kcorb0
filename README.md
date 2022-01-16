@@ -1,4 +1,4 @@
-<h1 align="center">:robot: Hey. I'm Josh. Welcome to my portfolio. :robot:</h1>
+<h1 align="center">:robot: Yo. Welcome to my portfolio. :robot:</h1>
 
 <p align="center">
   <img src="https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif">
