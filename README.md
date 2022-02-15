@@ -11,7 +11,6 @@
 - Very invested in studying Machine Learning, spend my time solving Kaggle Challenges
 - Currently working as a Data Engineer
 - I like to zen out making 3D models and pixel art for my projects
-- Serially print random things I will never use with my Ender 3
 
 ## 🎧 Current Listen 🎧
 
