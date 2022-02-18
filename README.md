@@ -7,7 +7,7 @@
 ## :flying_saucer: Who am I? :flying_saucer:
 
 - I'm a Python Developer
-- I can't call myself a web developer but I have created some website and webapps
+- I have created a few websites for myself, and enjoy web development as a hobby.
 - Very invested in studying Machine Learning, spend my time solving Kaggle Challenges
 - Currently working as a Data Engineer
 - I like to zen out making 3D models and pixel art for my projects
