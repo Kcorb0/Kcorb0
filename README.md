@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif">
 </p>
 
-<h2 align="center">🎧 Listening to 🎧</h2>
+<h2 align="center">🎧 Listening To 🎧</h2>
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />
