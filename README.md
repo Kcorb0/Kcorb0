@@ -4,16 +4,6 @@
   <img src="https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif">
 </p>
 
-## :flying_saucer: Who am I? :flying_saucer:
-
-- I'm a Python Developer
-- I accidentally got pretty good at JavaScript :( 
-- I have created a few websites for myself, and enjoy web development as a hobby.
-- Very invested in studying Machine Learning, spend my time solving Kaggle Challenges
-- Currently working as a Data Engineer
-- I like to zen out making 3D models and pixel art for my projects
-- Reading 'Introduction to Algorithms Third Edition' as olf 16/02/2022
-
 ## 🎧 Current Listen 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1164994091)
