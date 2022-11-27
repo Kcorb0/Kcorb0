@@ -12,3 +12,7 @@
 <p align="center">
   <img align="center" alt="kcoorb0stats" src="https://github-readme-stats-kcorb0.vercel.app/api?username=Kcorb0&show_icons=true&theme=radical"/>
 </p>
+
+<h2 align="center">🪄 Dark Arts 🪄</h2>
+
+[Python, JavaScript, C++]
