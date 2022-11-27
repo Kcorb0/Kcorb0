@@ -7,12 +7,6 @@
   
 </p>
 
-<h2 align="center">🎧 Listening To 🎧</h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1164994091&cover_image=true&theme=novatorem" alt="codeSTACKr Spotify Playing" width="350" />
-</p>
-
 <h2 align="center">:joystick: My Activity :joystick:</h2>
 
 <p align="center">
