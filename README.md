@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, take care.</h1>
+<h1>Welcome, take care.</h1>
 
 <p align="center">
   <img width="100%" src="https://media.tenor.com/QIspvZvpf7wAAAAd/purple-themed-anime-train-gif.gif">
