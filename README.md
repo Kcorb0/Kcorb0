@@ -1,1 +1,1 @@
-<h1 align="center">:robot: Welcome to My Portfolio :robot:</h1>
+<h1 align="center">Welcome, take care.</h1>
